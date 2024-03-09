@@ -1,0 +1,19 @@
+{
+  "name": "w2challenge5",
+  "version": "1.0.0",
+  "description": "Continúa el modulo con funciones que repliquen los siguientes métodos de array, sin utilizar ninguno de los métodos o propiedades ya existentes en el prototipo, :",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "prettier": {
+    "singleQuote": true
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  }
+}
